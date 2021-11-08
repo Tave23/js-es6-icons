@@ -6,10 +6,23 @@
 
 header{
    font-family: 'Acme', sans-serif;
-   
+   color: #29B1DD;
+   background-color: white;
 }
 
-/* font body */
-/* font-family: 'Open Sans', sans-serif;
+main{
+   font-family: 'Rubik', sans-serif;
+}
 
-font-family: 'Rubik', sans-serif; */
+.selectAnimals{
+   width: 100vw;
+   height: 60px;
+   background-color: #29B1DD;
+   color: white;
+   text-align: center;
+}
+
+.selectAnimals h4{
+   line-height: 60px;
+   text-transform: uppercase;
+}
